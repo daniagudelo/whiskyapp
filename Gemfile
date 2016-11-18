@@ -50,5 +50,8 @@ group :development do
   #FontAwesome gem
   gem 'font-awesome-sass'
   
+  #Simple Form gem
+  gem 'simple_form'
+  
 end
 
