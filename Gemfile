@@ -47,5 +47,8 @@ group :development do
   #Bootstrap gem
   gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
   
+  #FontAwesome gem
+  gem 'font-awesome-sass'
+  
 end
 
